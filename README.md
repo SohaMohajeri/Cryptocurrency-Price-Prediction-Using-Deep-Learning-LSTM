@@ -14,15 +14,18 @@
 
 <div align="justify">
 
-Ever since the start of world war when the USSR launched the first ever man-made sattelite into the space called the Sputnik, the world has taken great interests in trying to explore beyond the planet. It provides immense national pride when launches are successful. However, it is also incredibly disheartening when the missions do nott succeed and millions of dollars and national dreams burst into flames.
 
-In this notebook we will use Space_Mission_Dataset. This DataSet includes all the space missions since the beginning of Space Race (1957).There are three parts to our report, as follows:
+Although machine learning has been successful in predicting stock market prices through a host of different time series models, its application in predicting cryptocurrency prices has been quite restrictive. The reason behind this is obvious as prices of cryptocurrencies depend on a lot of factors like technological progress, internal competition, pressure on the markets to deliver, economic problems, security issues, political factor etc. Their high volatility leads to the great potential of high profit if intelligent inventing strategies are taken. Unfortunately, due to their lack of indexes, cryptocurrencies are relatively unpredictable compared to traditional financial predictions like stock market prediction. In this blog, I will be going through a four step process to predict cryptocurrency prices:
 
-- Data Cleaning and Feature Engineering
-- Exploratory Data Analysis
-- Prediction of Mission Status
+Getting real-time crptocurrency data.
 
-Our first objective is to find out the number of missions versus different features, and analyze various successes and failures of the space organisations worldwide. Our second goal is to implement several machine learning algorithms such as Logistic Regression, Decision Tree Classifier, Random Forest Classifier, Support Vector Classifier and XGBoost Classifier to predict whether the missions are successful or not. We will compare the results of these models to discover which algorithm works better for this specific dataset.
+Prepare data for training and testing (split data, Normalize data)
+
+Predict the price of crptocurrency using LSTM neural network.
+
+Visualize the prediction results.
+
+
 </div>
 
 
@@ -33,7 +36,7 @@ Our first objective is to find out the number of missions versus different featu
 
 <div align="justify">
 
-In this multiphase project, we used five datasets including Metal-CNT Sensor Dataset, Research Centers-Countries Dataset, Pt-CNT Sensor Dataset, Sulfur Cathode Properties Dataset and CNT Synthesis Dataset. These datasets were obtained from the chemical experiments and research carried out at the University of Washington.
+
 
 
 </div>
