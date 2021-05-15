@@ -3,8 +3,7 @@
 
 <div align="center">
   
-# Cryptocurrency-Price-Prediction-
-# Using-Deep-Learning-LSTM
+# Cryptocurrency-Price-Prediction-Using-Deep-Learning-LSTM
 
 </div>
 
